@@ -10,4 +10,4 @@ Clone o repositório principal para o seu computador:
 - Tenha o [XAMPP](https://www.apachefriends.org/download.html) instalado para rodar o servidor.
 - Importe o banco de dados pelo phpMyAdmin, usando o arquivo `montink_erp.sql` que está localizado na pasta `/sql` do projeto.
 - Ajuste as credenciais do banco no arquivo `db.php` localizado na pasta `config` para conectar ao MySQL localmente.
-- Após todas as etapas, abra o navegador e acesse `http://localhost/montink-erp` para usar o sistema.
+- Após todas as etapas, abra o navegador e acesse `https://localhost/montink-erp` para usar o sistema.
